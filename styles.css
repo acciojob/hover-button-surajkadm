@@ -1,12 +1,12 @@
 button{
-    border: 0ch;
+    border: none;
    background-color:black; 
    color: white; 
    border-radius: 5px;
 }
 
 button:hover{
-    border: 0ch;
+    border: none;
     background-color: yellow;
     color: black;
     border-radius: 30px;
